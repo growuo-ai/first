@@ -27,3 +27,5 @@ git merge -- to merge branges
 git fetch -- > to fetch the new commits but wont merge
 
 git pull --> fetch changes merge to local repo
+
+git cherrypick  --> use to merge particular commit 
