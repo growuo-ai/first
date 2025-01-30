@@ -1,1 +1,29 @@
 created a new branch
+
+git clone
+
+git add . or file name
+
+git commit -m "message"
+
+git push to push chages to remote repo
+
+git status
+
+git branch -- to show the current branch
+
+git branch new branch name  -- creates a new branch -- wont switches new branch
+
+git checkout -b new branch 
+
+git switch to switch between branches
+
+git log -- to show the logs
+
+git log --oneline
+
+git merge -- to merge branges 
+
+git fetch -- > to fetch the new commits but wont merge
+
+git pull --> fetch changes merge to local repo
